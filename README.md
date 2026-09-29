@@ -8,7 +8,7 @@
     - 앱: 모두가 웃고 눈 뜬 순간을 자동으로 찍는 단체 사진 앱
     - 핵심 기술: 라즈베리파이에서 돌아갈 수 있는 웃음 및 감은 눈 비전 분류 모델 개발
 -  개발 결과
-    - ![팀11 프로젝트 개발결과](assets\team11_project_result.png)
+    - ![팀11 프로젝트 개발결과](assets/team11_project_result.png)
 
 #### [미니프로젝트 RPS](https://github.com/ThinkKat/kdt-ai-soc-MiniProject_RPS): 카메라로 손을 촬영해서 가위바위보 승패를 판정하는 게임 프로그램.
 - 기간: 2026/09/17 ~ 2026/09/18
@@ -16,4 +16,4 @@
     - 앱: 카메라 앞에서 가위바위보를 할 때, 승패를 판정하는 프로그램.
     - 핵심 기술: 라즈베리파이에서 돌아갈 수 있는 손 모양 판정 비전 모델 개발
 -  개발 결과
-    - ![가위바위보 미니프로젝트 트러블슈팅 결과](assets\miniproject_rps_troubleshooting_result.png)
+    - ![가위바위보 미니프로젝트 트러블슈팅 결과](assets/miniproject_rps_troubleshooting_result.png)
